@@ -1,2 +1,2 @@
-# jingdizhou.github.io
-personal homepage
+# academic website of Jingdi Zhou
+
